@@ -1,6 +1,6 @@
 # moloco_test
 
-In this repository you will find the solutions for the data scientist position test. 
+In this repository, you will find the solutions for the data scientist position test. 
 # Files
 
 * The kernel (moloco_analysis.ipynb) contains all the answers;
